@@ -11,7 +11,10 @@ This project demonstrates how attackers can illegitimately capture users' login 
 **This repository is for educational and authorized security testing purposes only.**
 
 ## Features
-
+- Kali Linux Vmware
+- Web App to launch the malicious website
+- Email account
+- Thinderbird email client
 - Malicious website template for credential harvesting
 - Phishing email example with embedded malicious link
 - Activity reporting once credentials are captured
